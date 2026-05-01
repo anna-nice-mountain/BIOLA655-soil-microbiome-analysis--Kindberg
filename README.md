@@ -2,9 +2,9 @@
 This repository outlines the methods used to characterize the differences in soil microbial communities by forest maturity. This includes processing paired-end 16S rRNA gene sequences in Qiime2 and analyzing for beta and alpha diversity differences by maturity in R
 
 ## Contents
-- `qiime2_pipeline/`: QIIME2 command scripts
-- `r_analysis/`: R scripts for statistical analysis and visualization
-- `data/`: metadata file
+- `qiime_comands/`: QIIME2 pipeline command scripts
+- `655_diversity_analysis/`: R script for statistical analysis and visualization
+- `metadata/`: metadata file
 
 ## Reproducibility
 - QIIME2 version: 2026.4
